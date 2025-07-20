@@ -1,0 +1,1 @@
+document.getElementById("status").textContent = "Online e funcionando";
